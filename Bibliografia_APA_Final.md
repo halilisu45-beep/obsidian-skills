@@ -1,4 +1,4 @@
-Hyrja
+﻿Hyrja
 
 1. Bass, B. M. (1985). Leadership and performance beyond expectations. New York, NY: Free Press.  
 2. Burns, J. M. (1978). Leadership. New York, NY: Harper & Row.  
