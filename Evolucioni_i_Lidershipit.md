@@ -1,5 +1,19 @@
 **Evolucioni i Lidershipit dhe Marrëdhëniet me Masën në Kosovë (1999–2024): Klasifikimi i Liderëve sipas Performancës dhe Taktikave**
 
+**Lista e Tabelave dhe Figurave**
+
+Tabela 3.4 — Matrica krahasuese për vlerësimin e liderëve kryesorë në Kosovë (1999–2024)
+
+Tabela 3.4.3 — Treguesit empirikë të legjitimitetit politik dhe protokollet e matjes
+
+Tabela 5.1 — Karakteristikat demografike të kampionit (N = 119)
+
+Tabela 6.1 — Rezultatet e analizës ANOVA sipas blloqeve tematike dhe grupeve demografike
+
+Tabela 6.2 — Përmbledhje e statusit të hipotezave H1–H7
+
+Figura 7.1 — Evolucioni analitik i burimeve të legjitimitetit politik në Kosovë (1999–2024)
+
 **Hyrje**
 
 Lidershipi politik dhe marrëdhëniet ndërmjet liderëve dhe ndjekësve mund të konsiderohen si një shtyllë e domosdoshme e funksionimit të demokracive moderne. Ato ndikojnë jo vetëm në mënyrën se si merren vendimet, por edhe në mënyrën se si ndërtohet legjitimiteti dhe përfaqësimi qytetar. Megjithatë, duket se gjatë dekadave të fundit këto dinamika janë zhvendosur ndjeshëm. Revolucioni digjital ka ndryshuar thellësisht mënyrën e ndërveprimit midis udhëheqësve dhe publikut, duke e zhvendosur komunikimin nga hapësirat formale institucionale drejt platformave digjitale, ku reagimi është i menjëhershëm, shpesh emocional dhe i ndikuar nga perceptime të çastit (Chadwick, 2013, pp. 35-62).  
@@ -1032,7 +1046,26 @@ Në këtë kapitull, gjetjet empirike nuk trajtohen si rezultate të izoluara st
 
 **6.2 Gjetjet sasiore dhe interpretimi i trendeve empirike**
 
-Ky seksion paraqet gjetjet e fazës sasiore të studimit, duke u fokusuar në dallimet grupore sipas arsimimit, gjinisë dhe moshës, si dhe në prirjet deskriptive që dalin nga analiza. Analizat e variancës (ANOVA dhe Welch ANOVA) u aplikuan për dhjetë blloke tematike të instrumentit të survey-t, me qëllim të identifikimit të dallimeve statistikisht domethënëse ndërmjet grupeve demografike. Interpretimi i rezultateve mbetet brenda kufijve të dizajnit tërthor: të dhënat pasqyrojnë perceptimet e respondentëve në momentin e mbledhjes dhe nuk lejojnë konkluzione kauzale apo longitudinale. Gjetjet statistikisht të konfirmuara trajtohen si të tilla; rezultatet me p \> .05 raportohen si jo domethënëse dhe shërbejnë vetëm si kontekst deskriptiv.  
+Ky seksion paraqet gjetjet e fazës sasiore të studimit, duke u fokusuar në dallimet grupore sipas arsimimit, gjinisë dhe moshës, si dhe në prirjet deskriptive që dalin nga analiza. Analizat e variancës (ANOVA dhe Welch ANOVA) u aplikuan për dhjetë blloke tematike të instrumentit të survey-t, me qëllim të identifikimit të dallimeve statistikisht domethënëse ndërmjet grupeve demografike. Interpretimi i rezultateve mbetet brenda kufijve të dizajnit tërthor: të dhënat pasqyrojnë perceptimet e respondentëve në momentin e mbledhjes dhe nuk lejojnë konkluzione kauzale apo longitudinale. Gjetjet statistikisht të konfirmuara trajtohen si të tilla; rezultatet me p \> .05 raportohen si jo domethënëse dhe shërbejnë vetëm si kontekst deskriptiv.
+
+Statusi i hipotezave H1–H7 paraqitet në Tabelën 6.2.
+
+*Tabela 6.2* **Përmbledhje e statusit të hipotezave H1–H7**
+
+| Hip. | Fokusi | Evidenca kryesore | Statusi |
+| :--- | :--- | :--- | :---: |
+| H1 | Lidershipi karizmatik-polarizues → legjitimitet afatshkurtër | Jo e testueshme drejtpërdrejt sasior; mbështetje diskursive | **Pjesërisht e konfirmuar** (diskurs) |
+| H2 | Koherenca performancë–deklarim → besim publik | Konsensus i lartë transversal (M ≈ 4.5, p = .804) | **E mbështetur deskriptivisht** |
+| H3 | Autonomia e deklaruar e gjykimit si moderator i ndikimit medial | Vetë-perceptim i ulët i ndikimit medial (M ≈ 2.15/5, p = .403) | **E mbështetur deskriptivisht** |
+| H4 | Kapitali historik si burim transversal ndër grupmosha/gjini/arsimim | p = .592, η² = .003 — pa dallime statistikisht domethënëse ndërmjet grupeve | **E mbështetur deskriptivisht** |
+| H5 | Besimi ndaj ndërkombëtarëve: pragmatik dhe i kushtëzuar | Tre variabla: p = .631 / .070 / .083 — asnjë i konfirmuar | **E pambështetur statistikisht** |
+| H6 | Arsimimi → legjitimitet racional-ligjor + autocensurë (bashkëekzistencë) | Orientimi racional: p = .031, η² = .051. Autocensura: p = .228 | **Pjesërisht e mbështetur** |
+| H7 | Dallime gjinore: sakrificë morale + vizion mobilizues si kritere legjitimiteti | Lidershipi vizionar: p = .037, η² = .039. Sakrifica: pa test të drejtpërdrejtë | **Pjesërisht e mbështetur** |
+
+*Shënim.* p < .05. Dizajni tërthor nuk lejon konkluzione kauzale.
+
+Tri hipoteza gjejnë mbështetje deskriptive (H2, H3, H4), dy mbështeten pjesërisht (H6, H7), H1 konfirmohet vetëm nëpërmjet analizës diskursive, ndërsa H5 mbetet e pambështetur statistikisht.
+
 **Gjetja statistikisht domethënëse: kompetenca informative**  
 Nga dhjetë blloqet tematike të analizuara, vetëm njëra prodhoi dallim statistikisht domethënës sipas faktorit arsimim. Variabla “Besoj se liderët institucionalë zakonisht kanë informacion më të plotë se qytetarët për situatat politike” tregoi dallim ndërmjet respondentëve me arsim Bachelor dhe atyre me arsim Master: F \= 4.844, p \= .031, η² \= .051. Respondentët me arsim Master shfaqin mesatare dukshëm më të lartë (M \= 4.435) krahasuar me respondentët Bachelor (M \= 3.870). Efekti i arsimimit, i matur me η² \= .051, mund të lexohet si i kufizuar, por jo i papërfillshëm: rreth 5.1% e variancës në këtë variabël shoqërohet me nivelin arsimor të respondentëve.  
 Ky rezultat sugjeron se pajtimi me idenë e kompetencës informative të liderëve institucionalë është më i theksuar në grupet me arsimim pasuniversitar. Një interpretim i mundshëm është se respondentët me arsimim të lartë e kanë më të njohur logjikën e specializimit institucional dhe asimetrisë informative në marrëdhëniet politike. Megjithatë, ky interpretim mbetet brenda kornizës deskriptive: survey-i nuk mat mekanizmat shpjegues të kësaj lidhje.  
@@ -1094,7 +1127,37 @@ Kapitulli përdor edhe intervistën me Korab Sejdiun si material plotësues me f
 Legjitimiteti politik në Kosovë nuk mund të lexohet si kalim i thjeshtë nga autoriteti historik te performanca institucionale. Materiali empirik dhe diskursiv i studimit sugjeron diçka më komplekse: bashkëjetesë dhe tension ndërmjet burimeve të ndryshme të legjitimitetit (kapitalit historik, autoritetit personal, kompetencës institucionale dhe pritshmërive qytetare). Ky tension shfaqet si në perceptimet e respondentëve ashtu edhe në strategjitë komunikative të liderëve gjatë periudhës 1999–2024.  
 Analiza sasiore sugjeron se kompetenca institucionale dhe performanca paraqiten si kritere të rëndësishme në vlerësimin qytetar të lidershipit. Respondentët priren t’u atribuojnë liderëve institucionalë kompetencë informative më të lartë, orientim i lexueshëm si pritshmëri për ekspertizë dhe kapacitet institucional, jo vetëm si besnikëri ndaj figurës personale. Rezultatet konkrete dalin gjithashtu si element i spikatur i vlerësimit, ndërsa transparenca mund të lexohet si pjesë e pritshmërisë më të gjerë për llogaridhënie institucionale. Njëkohësisht, kapitali historik i liderëve me rol në ndërtimin e shtetit mbetet i pranishëm si burim legjitimiteti, por nuk mund të lexohet i shkëputur nga pritshmëritë bashkëkohore për performancë dhe rezultate. Qëndrimi ndaj liderit të fortë shfaq tolerancë të moderuar në nivel deskriptiv, pa prodhuar dallim statistikisht domethënës sipas arsimimit; kjo sugjeron bashkëjetesë orientimesh dhe jo dominancë të formave autoritare të legjitimitetit.  
 Diskursi rugovan ofron një nga modelet më të qëndrueshme të legjitimitetit në kontekstin post-konfliktual të Kosovës. Rugova e ndërtoi autoritetin e tij mbi rezistencën paqësore, autoritetin moral dhe institucionalizimin gradual. Kauza kombëtare dhe figura personale thuajse bashkohen në diskursin e tij: lidershipi nuk paraqitet si pushtet, por si shërbim ndaj kolektivitetit dhe si mbrojtje e dinjitetit nëpërmjet institucioneve. Ky model (ku legjitimiteti buron nga morali, jo nga forca) mbetet referencial për periudhën e tranzicionit dhe ndihmon në leximin e mënyrës se si autoriteti rindërtohet në faza të mëvonshme.  
-Thaçi paraqet një profil të ndryshëm dhe, nga pikëpamja analitike, kalimtar. Materiali diskursiv e vendos atë në pikëtakimin ndërmjet legjitimitetit karizmatik dhe atij institucional: lidhja me luftën çlirimtare jep bazën historike, ndërsa kapaciteti shtetformues (realizimi i pavarësisë si projekt institucional) i jep kësaj baze një dimension performativ. Ky kombinim sugjeron një figurë ku autoriteti karizmatik nuk zhduket, por institucionalizohet dhe kthehet në argument për kompetencë politike. Të thjeshtohet vetëm si “lider lufte” do të humbiste dimensionin e kësaj konfigurimi.  
+Thaçi paraqet një profil të ndryshëm dhe, nga pikëpamja analitike, kalimtar. Materiali diskursiv e vendos atë në pikëtakimin ndërmjet legjitimitetit karizmatik dhe atij institucional: lidhja me luftën çlirimtare jep bazën historike, ndërsa kapaciteti shtetformues (realizimi i pavarësisë si projekt institucional) i jep kësaj baze një dimension performativ. Ky kombinim sugjeron një figurë ku autoriteti karizmatik nuk zhduket, por institucionalizohet dhe kthehet në argument për kompetencë politike. Të thjeshtohet vetëm si “lider lufte” do të humbiste dimensionin e kësaj konfigurimi.
+
+Figura 7.1 paraqet tipologjitë analitike të burimeve dominante të legjitimitetit për pesë liderët e analizuar gjatë periudhës 1999–2024. Rendi i figurës ndjek grupimin e §7.3: modelet historiko-simbolike {Rugova, Thaçi, Haradinaj} paraprijnë modelet e rikonfigurimit post-shtetformues {Mustafa, Kurti}.
+
+```
+RUGOVA
+Moral · Ndërkombëtar
+        │
+        ▼
+THAÇI
+Çlirimtar · Shtetformues
+        │
+        ▼
+HARADINAJ
+Patriotik · Sakrificë
+        │
+        ▼
+MUSTAFA
+Procedural · Institucional
+        │
+        ▼
+KURTI
+Sovranitet · Mobilizim qytetar
+```
+
+*Figura 7.1* **Evolucioni analitik i burimeve të legjitimitetit politik në Kosovë (1999–2024)**
+
+*Shënim.* Figura paraqet tipologjitë analitike të burimeve dominante të legjitimitetit sipas materialit diskursiv dhe empirik, jo sekuencë kronologjike strikte. Burimet bashkëekzistojnë dhe ribalancohen sipas kontekstit; figura nuk pretendon zëvendësim linear.
+
+Figura funksionon si model analitik i lidhur me elaborimin diskursiv të §7.2 dhe §7.3, ku burimet e legjitimitetit të secilit lider lexohen si konfigurime të ribalansuara sipas kontekstit, jo si sekuencë zëvendësuese.
+
 Mustafa paraqitet si profil procedural dhe institucional: legjitimiteti ndërtohet kryesisht mbi kompetencën e perceptuar dhe procesin e rregullt, pa mbështetur fort në simbolikën historike. Kurti, sipas materialit diskursiv, kombinon elementet sovraniste me premtimin reformist dhe pritshmërinë e rezultateve konkrete, profil që i përket njëkohësisht seksionit 7.2 për dimensionin e legjitimitetit performativ, dhe seksioneve 7.4 e 7.6 për dimensionet e sovranitetit dhe mobilizimit. Haradinaj, aty ku materiali diskursiv e mbështet, paraqitet si figurë me legjitimitet patriotik dhe sakrificial: autoriteti buron kryesisht nga besnikëria ndaj kauzës dhe nga sakrifica personale, formë legjitimiteti e afërt me kapitalin historik dhe me simbolikën e sakrificës.  
 Lexuar në bashkësi, profilet e liderëve të analizuar sugjerojnë se burimet e legjitimitetit në Kosovë nuk janë zëvendësuar njëra me tjetrën, por janë ribalancuar sipas kontekstit dhe momentit politik. Legjitimiteti historik dhe legjitimiteti institucional shfaqen si pole të një tensioni aktiv: kur kapitali historik mbetet i pranishëm, ai lidhet me kapacitetin institucional për ta ruajtur rëndësinë; kur performanca del si kriter i rëndësishëm, ajo bashkëjeton me nevojën për ankorim simbolik në kauza historike ose institucionale. Ky bashkëveprim mund të lexohet si tipar i rëndësishëm interpretativ i kontekstit post-konfliktual, ku asnjë burim i vetëm legjitimiteti nuk mjafton.  
 Nga perspektiva e Sejdiut, legjitimiteti institucional ndërtohet mbi kapacitetin e institucioneve për të ofruar drejtësi, mundësi dhe siguri juridike, jo mbi simbolikën historike. Kjo perspektivë, brenda kufijve metodologjikë të materialit, ndihmon në nuancimin e tensionit ndërmjet legjitimitetit personal dhe atij institucional.
