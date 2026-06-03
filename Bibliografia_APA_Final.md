@@ -180,7 +180,7 @@ Winter, D. G. (2003). Personality and political behavior. In D. O. Sears, L. Hud
 11. Visoka, G. (2017). Shaping peace in Kosovo: The politics of peacebuilding and statehood. London: Palgrave Macmillan.  
 1.3.4  
 1. Milgram, S. (1963). Behavioral study of obedience. Journal of Abnormal and Social Psychology, 67(4), 371–378.  
-  Milgram, S. (1974). Obedience to authority: An experimental view. New York, NY: Harper & Row.  
+  Milgram, S. (1974). Obedience to authority: An experimental view. New York, NY: Harper & Row.  
 2. Kahneman, D. (2011). Thinking, fast and slow. New York, NY: Farrar, Straus and Giroux.  
 3. Cialdini, R. B. (2009). Influence: Science and practice (5th ed.). Boston, MA: Pearson.  
 4. Weber, M. (1978). Economy and society: An outline of interpretive sociology. Berkeley, CA: University of California Press.  
@@ -205,7 +205,7 @@ Winter, D. G. (2003). Personality and political behavior. In D. O. Sears, L. Hud
 13. Freedom House. (2024). Nations in Transit 2024: Kosovo. [https://freedomhouse.org/country/kosovo/nations-transit/2024](https://freedomhouse.org/country/kosovo/nations-transit/2024)  
 14. Rosenblum, N. L. (2008). On the side of the angels: An appreciation of parties and partisanship. Princeton University Press. [https://doi.org/10.1515/9781400834228](https://doi.org/10.1515/9781400834228)  
 1.3.6  
-1. Magee, J. C., & Galinsky, A. D. (2008). Social hierarchy: The self‐reinforcing nature of power and status. Academy of Management Annals, 2(1), 351–398. [https://doi.org/10.1080/19416520802211628](https://doi.org/10.1080/19416520802211628)  
+1. Magee, J. C., & Galinsky, A. D. (2008). Social hierarchy: The self-reinforcing nature of power and status. Academy of Management Annals, 2(1), 351–398. [https://doi.org/10.1080/19416520802211628](https://doi.org/10.1080/19416520802211628)  
 2. Anderson, C., Hildreth, J. A. D., & Howland, L. (2015). Is the desire for status a fundamental human motive? A review of the empirical literature. Psychological Bulletin, 141(3), 574–601. [https://doi.org/10.1037/a0038781](https://doi.org/10.1037/a0038781)  
 3. Maner, J. K., & Case, C. R. (2016). Dominance and prestige: Dual strategies for navigating social hierarchies. In J. M. Olson & M. P. Zanna (Eds.), Advances in Experimental Social Psychology (Vol. 54, pp. 129–180). Elsevier. [https://doi.org/10.1016/bs.aesp.2016.02.001](https://doi.org/10.1016/bs.aesp.2016.02.001)  
 4. Vandewalle, D. (2006). Libya Since Independence: Oil and State-Building. Ithaca, NY: Cornell University Press.  
@@ -219,7 +219,7 @@ Winter, D. G. (2003). Personality and political behavior. In D. O. Sears, L. Hud
 12. Shinoda, T. (2007). Koizumi Diplomacy: Japan’s Kantei Approach to Foreign and Defense Affairs. University of Washington Press.  
 13. May, R. J. (2004). State and Society in Papua New Guinea: The First Twenty-Five Years. ANU Press.  
 14. Premdas, R. R. (1975). Internal problems of rapid political change. African Studies Review, 18(2), 59–82. [https://doi.org/10.2307/523771](https://doi.org/10.2307/523771)  
-15. Maner, J. K., & Case, C. R. (2016). (pjesa tjetër e kapitullit, pp. 150–160). Në të njëjtin burim si ref. ³.  
+15. Maner, J. K., & Case, C. R. (2016). (pjesa tjetër e kapitullit, pp. 150–160). Në të njëjtin burim si ref. 3.  
 16. Haslam, S. A., Reicher, S. D., & Platow, M. J. (2011). The New Psychology of Leadership: Identity, Influence and Power. Psychology Press.  
 17. Sandel, M. J. (2020). The Tyranny of Merit: What’s Become of the Common Good? Farrar, Straus and Giroux.
 
@@ -1088,7 +1088,7 @@ Norris, P. (2011). Democratic deficit: Critical citizens revisited. Cambridge Un
 23. Norris, P., & Inglehart, R. (2019). Cultural backlash: Trump, Brexit, and authoritarian populism. Cambridge University Press.  
 24. O’Donnell, G. (1999). Horizontal accountability in new democracies. In A. Schedler, L. Diamond, & M. F. Plattner (Eds.), The self-restraining state. Lynne Rienner Publishers.  
 25. Olsen, J. P. (2017). Democratic accountability, political order, and change. Oxford University Press.  
-26. OSCE. (2025). Beyond Fake News ‐ Advancing Media and Information Literacy for an Informed Society. OSCE Mission in Kosovo.  
+26. OSCE. (2025). Beyond Fake News - Advancing Media and Information Literacy for an Informed Society. OSCE Mission in Kosovo.  
 27. Norris, P. (2011). Democratic deficit: Critical citizens revisited. Cambridge University Press.  
 28. Almond, G., & Verba, S. (1963). The civic culture: Political attitudes and democracy in five nations. Princeton University Press.  
 29. Norris, P. (2019). Political communication in a post-truth world. Oxford University Press.  
